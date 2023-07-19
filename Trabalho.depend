@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669748876 source:c:\users\jp\desktop\trabalho\main.c
+	<stdio.h>
+	<string.h>
+	"FilaEstatica.h"
+
+1669751210 c:\users\jp\desktop\trabalho\filaestatica.h
+	<stdio.h>
+
+1669751105 source:c:\users\jp\desktop\trabalho\filaestatica.c
+	<stdio.h>
+
+1669751105 source:c:\users\jp\documents\program\2p\1ntregar\arquipelagos\filaestatica.c
+	<stdio.h>
+
+1669748876 source:c:\users\jp\documents\program\2p\1ntregar\arquipelagos\main.c
+	<stdio.h>
+	<string.h>
+	"FilaEstatica.h"
+
+1669751210 c:\users\jp\documents\program\2p\1ntregar\arquipelagos\filaestatica.h
+	<stdio.h>
+

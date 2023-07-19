@@ -1,0 +1,9 @@
+João Pedro Meurer Dias - a2461110
+
+Na dfs e bfs algumas partes ficaram meio confusas porque tive que
+diminuir 1 em variaveis em alguns casos e acrescentar 1 em outros.
+
+Tive que usar a variavel agua como variavel global pois quando ela
+era local dava algum erro depois que eu escolhia a opção caminho, a
+variavel agua voltava a ser 0.
+
